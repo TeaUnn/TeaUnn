@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TeaUnn
+- 👋 Hi, I’m @TeaUnn,
 - 👀 I’m interested in statistics.
 - 🌱 I’m currently learning R!
 
