@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeaUnn,
-- 👀 I’m interested in statistics.
-- 🌱 I’m currently learning python!
+- 👀 I work in statistics.
+- 🌱 I’m currently learning python and using it for ML!
 
 <!---
 TeaUnn/TeaUnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
